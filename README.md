@@ -231,3 +231,4 @@ We've learned how to use Handlebars templates to render object, and collections 
 - [Handlebars](http://handlebarsjs.com/)
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/javascript-handlebars-templates'>Handlebars Templates</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG JavaScript Handlebars Templates</p>
