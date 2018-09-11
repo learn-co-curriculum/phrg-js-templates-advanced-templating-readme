@@ -226,6 +226,9 @@ Here we've simply replaced `{{body}}` with our helper, `{{comment_body}}`. Now i
 
 We've learned how to use Handlebars templates to render object, and collections of objects with the built-in `each` helper. We've made decisions on how to display things using the built-in `if` helper, and implemented and registered our own custom helper to move logic out of the template.
 
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-js-templates-advanced-templating-readme/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-js-templates-advanced-templating-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 ## Resources
 
 - [Handlebars](http://handlebarsjs.com/)
